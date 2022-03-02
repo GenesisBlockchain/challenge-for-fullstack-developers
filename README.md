@@ -7,7 +7,7 @@
 - Express
 - Node
 
-You have 7 days upon receiving this test to complete and submit it back to us
+You have 3 days upon receiving this test to complete and submit it back to us
 
 ## Instructions
 The purpose of this code challenge is to build an admin dashboard with authentication protection and the ability to add new tasks.
@@ -34,4 +34,5 @@ The purpose of this code challenge is to build an admin dashboard with authentic
 
 ## Bonus
 Bonus points for adding a search bar in the admin dashboard to search for products. 
+Deployment to see the working website
 
