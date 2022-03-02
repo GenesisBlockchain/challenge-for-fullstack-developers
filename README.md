@@ -31,9 +31,15 @@ The purpose of this code challenge is to build an admin dashboard with authentic
    - Add a logout button that redirects to the login page. 
    - Make the page responsive for mobile and desktop devices.
 7. Create the express server with the relevant APIs for the frontend to connect to.
-8. When you are done, send us the link to your GitHub repository with a clear readme file and any other details required for us to run the app
+   - Add routes that deal with these functionality
+    - Creating
+    - Reading
+    - Updating
+    - Deleting 
+9. When you are done, send us the link to your GitHub repository with a clear readme file and any other details required for us to run the app
 
 ## Bonus
-Bonus points for adding a search bar in the admin dashboard to search for products. 
-Deployment to see the working website
+Bonus points for adding a search bar in the admin dashboard to search for tasks. 
+
+Have a link to the deployed web app that is functional and available for use.
 
