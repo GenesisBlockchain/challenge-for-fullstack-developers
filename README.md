@@ -30,12 +30,12 @@ The purpose of this code challenge is to build an admin dashboard with authentic
    - Add the option to remove an existing task (should be removed from the database as well).
    - Add a logout button that redirects to the login page. 
    - Make the page responsive for mobile and desktop devices.
-7. Create the express server with the relevant APIs for the frontend to connect to.
+7. Create the express server with the relevant APIs for the frontend to connect to. 
    - Add routes that deal with these functionality
-    - Creating
-    - Reading
-    - Updating
-    - Deleting 
+       - Creating
+       - Reading
+       - Updating
+       - Deleting 
 9. When you are done, send us the link to your GitHub repository with a clear readme file and any other details required for us to run the app
 
 ## Bonus
