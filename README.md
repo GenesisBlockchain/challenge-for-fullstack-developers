@@ -1,4 +1,5 @@
-# Coding Challenge for Web Engineers
+# Coding Challenge for Fullstack Developers
+This challenge is to showcase skills in both backend and frontend development.
 
 ## Requirements
 - React 
