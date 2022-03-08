@@ -24,22 +24,24 @@ The purpose of this code challenge is to build an admin dashboard with authentic
    - Redirect to the admin dashboard page (to be built in the next step) for correct credentials.
 6. Build the admin dashboard page:
    - Show a list of tasks (the tasks should be fetched from a database and put into a redux store). 
-    - Each task has the following data: Title, timestamp, whether it's done, and description.
-   - Add the option to add a new task (should be added to the database as well).
-   - Add the option to edit an existing task (should be edited in the database as well).
+   - Each task has the following data: Title, timestamp, whether it's done, and description.
+   - Add the option to add multiple tasks at once.
+   - Add the option to edit an existing task.
    - Add the option to remove an existing task (should be removed from the database as well).
+   - Pagination on tasks
    - Add a logout button that redirects to the login page. 
    - Make the page responsive for mobile and desktop devices.
 7. Create the express server with the relevant APIs for the frontend to connect to. 
    - Add routes that deal with these functionality
-       - Creating
+       - Creating multiple tasks
        - Reading
        - Updating
        - Deleting 
 9. When you are done, send us the link to your GitHub repository with a clear readme file and any other details required for us to run the app
 
 ## Bonus
-Bonus points for adding a search bar in the admin dashboard to search for tasks. 
-
-Have a link to the deployed web app that is functional and available for use.
+Bonus points for 
+   - adding a search bar in the admin dashboard to search for tasks. 
+   - adding images to tasks
+   - having a link to the deployed web app that is functional and available for use.
 
